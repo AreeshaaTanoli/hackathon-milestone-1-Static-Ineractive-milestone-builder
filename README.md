@@ -3,3 +3,5 @@
 "# hackathon-milestone-1-Static-Ineractive-milestone-builder" 
 "# hackathon-milestone-1-Static-Interactive-Resume-Builder" 
 "# milestone-1-Static-Interactive-Resume-Builder" 
+"# milestone-1-Static-Interactive-Resume-Builder" 
+"# hackathon-milestone-1-Static-Interactive-Resume-Builder" 
